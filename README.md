@@ -48,9 +48,9 @@ For beginners
 4. Next you can craft Geralt (nonpremium), Ciri: Dash, Regis.
 5. After you can start collect other cards and play game for fun.
 
-Example of your first and next decks:
-<img src="starter_deck.png" width="70%">
-<img src="starter_deck_next.png" width="70%">
+<p>Example of your first and next decks:</p>
+<p><img src="starter_deck.png" width="70%"></p>
+<p><img src="starter_deck_next.png" width="70%"></p>
 
 Full version
 -------------------
