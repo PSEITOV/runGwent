@@ -1,6 +1,10 @@
 # runGwent
 Auto tool for completing daily tasks in Gwent card game. 5 days demo available.
 
+Warning
+-------------------
+Not working with current version of Gwent game (open beta). May be it will be available later.
+
 Description
 -------------------
 <p>runGwent helps to complete daily tasks in Gwent card game. It based on image detection and simple OCR. </p>
