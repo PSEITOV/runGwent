@@ -49,6 +49,7 @@ For beginners
 5. After you can start collect other cards and play game for fun.
 
 Example deck:
+
 <img src="example.png" width="70%">
 
 Full version
