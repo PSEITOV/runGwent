@@ -1,16 +1,12 @@
 # runGwent
 Auto tool for completing daily tasks in Gwent card game. 5 days demo available.
 
-Warning
--------------------
-Not working with current version of Gwent game (open beta). May be it will be available later.
-
 Description
 -------------------
-<p>runGwent helps to complete daily tasks in Gwent card game. It based on image detection and simple OCR. </p>
+<p>runGwent helps to complete daily tasks in Gwent card game (Public Beta). It based on image detection and simple OCR. </p>
 <p>You can select hero and cards which will be played, according to the priority you set. Knowing which card will be or may be in your deck, program avoid play cards which demand any descicion.</p>
 <p>Program launch Gwent game after you press "Start" button, or after runGwent will be launched (if "Auto play on stratup" checkbox is checked). So you need set path to Gwent.exe before.</p>
-<p>There are need 5-6 hours for get 400+ ore. Average winrate 40-60%.</p>
+<p>There are need 5-6 hours for get 300+ ore. Average winrate 30-50%.</p>
 
 Game Settings
 -------------------
@@ -23,8 +19,8 @@ Game Settings
 Available decks
 -------------------
 <p>The last played deck will be played. Now available only Eredin deck with all cards which not require make any descicions.</p>
-<p>Mulligun - now only for Foglets, Wild Hunt Riders and Crones. Later it can be setted.</p>
-<p>Animated cards not supported, pls, don't use.</p>
+<p>Mulligun - now only for Foglets and Crones. Later it can be setted.</p>
+<p>Animated cards not supported, pls, don't use it.</p>
 
 Program requirements
 -------------------
@@ -33,7 +29,7 @@ Program requirements
 
 First steps
 -------------------
- 1. Download and unzip <a href="https://github.com/PSEITOV/runGwent/blob/master/output.zip">output.zip file</a>.
+ 1. Download and unzip output.zip file.
  2. Run runGwent.exe.
  3. Press "Path" to set path to Gwent.exe.
  4. Press "Deck" to select cards for your deck (check checkbox in the column "Select").
@@ -48,13 +44,12 @@ For beginners
 -------------------
 1. Get 3 lvl in game, when you will can mill cards.
 2. Mill unnecessary cards, you get ~1000 scraps and can craft Crones and useful bronze cards.
-3. When you complete one daily tasks you get 9 lvl and enough scraps to craft Old Speartip, Woodland Spirit and Earth elemental.
-4. Next you can craft Geralt (nonpremium), Ciri: Dash, Regis.
+3. When you complete one daily tasks you get 9 lvl and enough scraps to craft Woodland Spirit.
+4. Next you can craft Draug, Geralt, Ciri: Dash.
 5. After you can start collect other cards and play game for fun.
 
-<p>Example of your first and next decks:</p>
-<p><img src="starter_deck.png" width="70%"></p>
-<p><img src="starter_deck_next.png" width="70%"></p>
+Example deck:
+<img src="example.png" width="70%">
 
 Full version
 -------------------
