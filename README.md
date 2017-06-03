@@ -18,7 +18,7 @@ Game Settings
 
 Available decks
 -------------------
-<p>The last played deck will be played. Now available only Eredin deck with all cards which not require make any descicions.</p>
+<p>The last played deck will be played. Now available only Dagon deck with all cards which not require make any descicions.</p>
 <p>Mulligun - now only for Foglets and Crones. Later it can be setted.</p>
 <p>Animated cards not supported, pls, don't use it.</p>
 
